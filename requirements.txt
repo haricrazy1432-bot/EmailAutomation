@@ -1,0 +1,4 @@
+chromadb
+sentence-transformers
+pymupdf
+tiktoken    # optional but recommended if you want token-aware chunking
